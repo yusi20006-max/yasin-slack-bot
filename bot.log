@@ -1,0 +1,8 @@
+on_error invoked (session id: 240dceea-6867-49cf-8704-96a9c37e0a11, error: ConnectionAbortedError, message: [Errno 103] Software caused connection abort)
+on_error invoked (session id: 382b1a19-fea3-4586-953c-f650743af5e5, error: ConnectionAbortedError, message: [Errno 103] Software caused connection abort)
+on_error invoked (session id: de843307-71c6-40d5-a94e-48bddc97d6f1, error: ConnectionAbortedError, message: [Errno 103] Software caused connection abort)
+on_error invoked (session id: 9249caf7-4629-40e9-97e3-363abcffffb1, error: ConnectionAbortedError, message: [Errno 103] Software caused connection abort)
+Failed to send a request to Slack API server: <urlopen error [Errno 104] Connection reset by peer>
+Failed to send a request to Slack API server: <urlopen error [Errno 104] Connection reset by peer>
+on_error invoked (session id: 498765f2-b1fe-4db2-a510-ef8a199db4b9, error: ConnectionAbortedError, message: [Errno 103] Software caused connection abort)
+on_error invoked (session id: 5756e287-df2b-4918-b95e-9c8a1a79d8ba, error: ConnectionAbortedError, message: [Errno 103] Software caused connection abort)
